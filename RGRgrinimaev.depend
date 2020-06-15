@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1592143593 source:c:\users\grini\yandexdisk\rgrgrinimaev\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iterator>
+	"contact.h"
+	"mainMenu.h"
+
+1592143593 c:\users\grini\yandexdisk\rgrgrinimaev\contact.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1592143593 c:\users\grini\yandexdisk\rgrgrinimaev\mainmenu.h
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iterator>
+	"contact.h"
+
